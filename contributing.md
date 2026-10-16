@@ -55,3 +55,5 @@ Yes — download again and repeat the steps.
 ---
 
 *fake-name-generator · Updated 2026-10-16 · Shared under the MIT License*
+
+<!-- rev 2026-10-16 -->
